@@ -1,0 +1,2 @@
+# easy-salary
+salary
